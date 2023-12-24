@@ -1,4 +1,4 @@
 # git-demo
 This is read me file
-<br>
 we can use html in read me 
+Author - Arhat Notey
